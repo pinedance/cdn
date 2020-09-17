@@ -1,0 +1,25 @@
+## CDN
+
+[Github CDN](https://raw.githack.com/)
+
+
+koreantk_v1_dict.json
+
+* URL: pinedance.github.io/km-data-formula/koreantk_v1_dict.json
+* CDN:
+  - DEV: https://raw.githack.com/pinedance/cdn/gh-pages/km-data-formula/koreantk_v1_dict.json
+  - PRO: https://rawcdn.githack.com/pinedance/cdn/d8361b4172a245d12c8d53e0c4a230b4fe6e56e8/km-data-formula/koreantk_v1_dict.json
+
+koreantk_v1_encoded_data.json
+
+* URL: pinedance.github.io/km-data-formula/koreantk_v1_encoded_data.json
+* CDN:
+  - DEV: https://raw.githack.com/pinedance/cdn/gh-pages/km-data-formula/koreantk_v1_encoded_data.json
+  - PRO: https://rawcdn.githack.com/pinedance/cdn/d8361b4172a245d12c8d53e0c4a230b4fe6e56e8/km-data-formula/koreantk_v1_encoded_data.json
+
+koreantk_v1_ridx.json
+
+* URL: pinedance.github.io/km-data-formula/koreantk_v1_ridx.json
+* CDN:
+  - DEV: https://raw.githack.com/pinedance/cdn/gh-pages/km-data-formula/koreantk_v1_ridx.json
+  - PRO: https://rawcdn.githack.com/pinedance/cdn/d8361b4172a245d12c8d53e0c4a230b4fe6e56e8/km-data-formula/koreantk_v1_ridx.json
